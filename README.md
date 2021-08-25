@@ -1,3 +1,5 @@
+# ⚠️ Moved to [smarlhens/ngx-boilerplate/ng-10](https://github.com/smarlhens/ngx-boilerplate/tree/ng-10)
+
 # Angular 10 - Boilerplate
 
 [![GitHub CI](https://github.com/smarlhens/ng10-boilerplate/workflows/CI/badge.svg)](https://github.com/smarlhens/ng10-boilerplate/actions?query=workflow%3ACI)
@@ -14,7 +16,6 @@
 [![GitHub license](https://img.shields.io/github/license/smarlhens/ng10-boilerplate)](https://github.com/smarlhens/ng10-boilerplate)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/smarlhens/ng10-boilerplate)
 ![GitHub repo size](https://img.shields.io/github/repo-size/smarlhens/ng10-boilerplate)
-[![HitCount](http://hits.dwyl.io/smarlhens/ng10-boilerplate.svg)](http://hits.dwyl.io/smarlhens/ng10-boilerplate)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
 
